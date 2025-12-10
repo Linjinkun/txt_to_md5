@@ -1,0 +1,4 @@
+SELECT
+	MD5(mobile) AS mobile_md5
+FROM
+	crm_customer;
